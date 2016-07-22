@@ -2,7 +2,7 @@
 
 function double_to_one(collection) {
 
-   var num=[],k=0;
+   let num=[],k=0;
   //在这里写入代码
    for(var i=0;i<collection.length;i++)
      {
